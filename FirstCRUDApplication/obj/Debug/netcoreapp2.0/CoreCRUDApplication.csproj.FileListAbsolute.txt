@@ -1,0 +1,11 @@
+C:\Users\Gray\Desktop\ASP.NET-Core-MVC-Example-master\FirstCRUDApplication\FirstCRUDApplication\bin\Debug\netcoreapp2.0\CoreCRUDApplication.deps.json
+C:\Users\Gray\Desktop\ASP.NET-Core-MVC-Example-master\FirstCRUDApplication\FirstCRUDApplication\bin\Debug\netcoreapp2.0\CoreCRUDApplication.runtimeconfig.json
+C:\Users\Gray\Desktop\ASP.NET-Core-MVC-Example-master\FirstCRUDApplication\FirstCRUDApplication\bin\Debug\netcoreapp2.0\CoreCRUDApplication.runtimeconfig.dev.json
+C:\Users\Gray\Desktop\ASP.NET-Core-MVC-Example-master\FirstCRUDApplication\FirstCRUDApplication\bin\Debug\netcoreapp2.0\CoreCRUDApplication.dll
+C:\Users\Gray\Desktop\ASP.NET-Core-MVC-Example-master\FirstCRUDApplication\FirstCRUDApplication\bin\Debug\netcoreapp2.0\CoreCRUDApplication.pdb
+C:\Users\Gray\Desktop\ASP.NET-Core-MVC-Example-master\FirstCRUDApplication\FirstCRUDApplication\obj\Debug\netcoreapp2.0\CoreCRUDApplication.csprojAssemblyReference.cache
+C:\Users\Gray\Desktop\ASP.NET-Core-MVC-Example-master\FirstCRUDApplication\FirstCRUDApplication\obj\Debug\netcoreapp2.0\CoreCRUDApplication.csproj.CoreCompileInputs.cache
+C:\Users\Gray\Desktop\ASP.NET-Core-MVC-Example-master\FirstCRUDApplication\FirstCRUDApplication\obj\Debug\netcoreapp2.0\CoreCRUDApplication.AssemblyInfoInputs.cache
+C:\Users\Gray\Desktop\ASP.NET-Core-MVC-Example-master\FirstCRUDApplication\FirstCRUDApplication\obj\Debug\netcoreapp2.0\CoreCRUDApplication.AssemblyInfo.cs
+C:\Users\Gray\Desktop\ASP.NET-Core-MVC-Example-master\FirstCRUDApplication\FirstCRUDApplication\obj\Debug\netcoreapp2.0\CoreCRUDApplication.dll
+C:\Users\Gray\Desktop\ASP.NET-Core-MVC-Example-master\FirstCRUDApplication\FirstCRUDApplication\obj\Debug\netcoreapp2.0\CoreCRUDApplication.pdb
